@@ -1,6 +1,6 @@
 # Realtime Chat (Full Stack)
 
-![CI](../../actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/sudeep1305k/realtime-chat-app/actions/workflows/ci.yml/badge.svg)
 
 A real-time chat application with rooms, persistent message history, live online users and typing indicators.
 
